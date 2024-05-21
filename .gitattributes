@@ -1,0 +1,2 @@
+analisando.ipynb filter=lfs diff=lfs merge=lfs -text
+cancelamentos_sample.csv filter=lfs diff=lfs merge=lfs -text
